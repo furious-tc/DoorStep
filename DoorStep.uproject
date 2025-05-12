@@ -3,6 +3,13 @@
 	"EngineAssociation": "5.5",
 	"Category": "",
 	"Description": "",
+	"Plugins": [
+		{
+			"Name": "trans",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/cb031f056434456c8b0a1b6075f185d1"
+		}
+	],
 	"TargetPlatforms": [
 		"Windows"
 	]
